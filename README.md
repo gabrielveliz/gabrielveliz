@@ -1,4 +1,4 @@
-###¡Bienvenido a mi perfil de GitHub! Soy Gabriel Véliz, un desarrollador apasionado por el desarrollo web.
+### ¡Bienvenido a mi perfil de GitHub! Soy Gabriel Véliz, un desarrollador apasionado por el desarrollo web.
 
 ## Sobre mí
 - 🌱 Actualmente estoy aprendiendo Node JS.
