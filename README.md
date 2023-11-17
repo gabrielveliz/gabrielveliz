@@ -7,9 +7,9 @@
 - 😄 Pronombres: Me identifico como "el" ya que soy hombre y se me crio con el método tradicional, pero soy de mente abierta y considero que las personas son libres de escoger su orientación sexual y yo no voy inculcar mi crianza o mi creencia sobre otras personas.
 
 ## Proyectos destacados
--Geolocalización de IP (https://ip-address-tracker-six-rose.vercel.app/) repositorio: https://github.com/gabrielveliz/ip-address-tracker
--Juego Piedra Papel y Tijera (https://rock-paper-scissors-game-rho-ten.vercel.app/) repositorio: https://github.com/gabrielveliz/rock-paper-scissors-game
--Sitio web Nasa (de FrontendMentor) (https://space-tourism-website-seven-rho.vercel.app/) repositorio: https://github.com/gabrielveliz/space-tourism-website
+- Geolocalización de IP (https://ip-address-tracker-six-rose.vercel.app/) repositorio: https://github.com/gabrielveliz/ip-address-tracker
+- Juego Piedra Papel y Tijera (https://rock-paper-scissors-game-rho-ten.vercel.app/) repositorio: https://github.com/gabrielveliz/rock-paper-scissors-game
+- Sitio web Nasa (de FrontendMentor) (https://space-tourism-website-seven-rho.vercel.app/) repositorio: https://github.com/gabrielveliz/space-tourism-website
 este último proyecto me gusta mucho por las imágenes y los fondos que se utilizan :)
 
 ## Idiomas y herramientas
@@ -28,9 +28,9 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielveliz&layo
 - 😄 Pronouns: I identify as a man, because my parents taught me that, but my mind is open and I believe that people can choose their gender without anyone being able to argue with them.
 
 ## Featured projects
--IP Address Tracker (https://ip-address-tracker-six-rose.vercel.app/) repository: https://github.com/gabrielveliz/ip-address-tracker
--Game Rock Paper Scissors (https://rock-paper-scissors-game-rho-ten.vercel.app/) repository: https://github.com/gabrielveliz/rock-paper-scissors-game
--Space Tourism Website (Belongs to a FrontendMentor) (https://space-tourism-website-seven-rho.vercel.app/) repository: https://github.com/gabrielveliz/space-tourism-website
+- IP Address Tracker (https://ip-address-tracker-six-rose.vercel.app/) repository: https://github.com/gabrielveliz/ip-address-tracker
+- Game Rock Paper Scissors (https://rock-paper-scissors-game-rho-ten.vercel.app/) repository: https://github.com/gabrielveliz/rock-paper-scissors-game
+- Space Tourism Website (Belongs to a FrontendMentor) (https://space-tourism-website-seven-rho.vercel.app/) repository: https://github.com/gabrielveliz/space-tourism-website
 I really like this last project, the images and the background are beautiful.
 
 ## Lenguages and Tools.
