@@ -1,3 +1,4 @@
+# Español / Spanish
 ### ¡Bienvenido a mi perfil de GitHub! Soy Gabriel Véliz, un desarrollador apasionado por el desarrollo web.
 
 ## Sobre mí
@@ -18,7 +19,7 @@ Aquí algunos de los lenguajes y herramientas con los que trabajo:
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielveliz&layout=compact
 
-****************************    ENGLISH    *********************************************
+# English / Inglés
 ### Welcome to my GitHub profile, I'm Gabriel Véliz, a software developer who focus on Web development.
 
 ## About me
