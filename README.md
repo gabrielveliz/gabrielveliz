@@ -37,4 +37,4 @@ I really like this last project, the images and the background are beautiful.
 
 Here are some languages ​​and tools I work with:
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielveliz&layout=compac
+https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielveliz&layout=compact
