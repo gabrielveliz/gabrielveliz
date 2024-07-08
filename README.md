@@ -3,9 +3,9 @@
 
 ## Sobre mí
 - 🌱 Actualmente estoy aprendiendo Node JS.
-- 💬 Pregúntame sobre Desarrollo web con React, Jquery, javascript, SQL y un poco de Node JS.
+- 💬 Pregúntame sobre Desarrollo web con React, Jquery, javascript, SQL, Python para Analisis de datos y Node JS.
 - 📫 Cómo llegar a mí: gvelizzuniga@gmail.com.
-- 😄 Pronombres: Me identifico como "el" ya que soy hombre y se me crio con el método tradicional, pero soy de mente abierta y considero que las personas son libres de escoger su orientación sexual y yo no voy inculcar mi crianza o mi creencia sobre otras personas.
+- 😄 Pronombres: Me identifico como "el".
 
 ## Proyectos destacados
 - Geolocalización de IP (https://ip-address-tracker-six-rose.vercel.app/) repositorio: https://github.com/gabrielveliz/ip-address-tracker
@@ -24,9 +24,9 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielveliz&layo
 
 ## About me
 - 🌱 Currently i'm learning Node JS.
-- 💬 you can ask me about web development with React, Jquery, Javascript, SQl and a litle of Node JS.
+- 💬 you can ask me about web development with React, Jquery, Javascript, SQl, Python for data analistcs and Node JS.
 - 📫 Send me a message at gvelizzuniga@gmail.com if you would like contact me.
-- 😄 Pronouns: I identify as a man, because my parents taught me that, but my mind is open and I believe that people can choose their gender without anyone being able to argue with them.
+- 😄 Pronouns: I identify as a man.
 
 ## Featured projects
 - IP Address Tracker (https://ip-address-tracker-six-rose.vercel.app/) repository: https://github.com/gabrielveliz/ip-address-tracker
@@ -39,3 +39,6 @@ I really like this last project, the images and the background are beautiful.
 Here are some languages ​​and tools I work with:
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielveliz&layout=compact
+
+## Insignia
+![Prancheta 3](https://github.com/gabrielveliz/gabrielveliz/assets/24717811/a1bb8f2c-e209-404e-95a5-5227e1b3c1dd)
