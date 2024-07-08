@@ -2,7 +2,7 @@
 ### ¡Bienvenido a mi perfil de GitHub! Soy Gabriel Véliz, un desarrollador apasionado por el desarrollo web.
 
 ## Sobre mí
-- 🌱 Actualmente estoy aprendiendo Node JS.
+- 🌱 Actualmente estoy realizando el Curso de Oracle One para desarrollo FullStack y el de Analisis de datos de Google.
 - 💬 Pregúntame sobre Desarrollo web con React, Jquery, javascript, SQL, Python para Analisis de datos y Node JS.
 - 📫 Cómo llegar a mí: gvelizzuniga@gmail.com.
 - 😄 Pronombres: Me identifico como "el".
@@ -23,7 +23,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielveliz&layo
 ### Welcome to my GitHub profile, I'm Gabriel Véliz, a software developer who focus on Web development.
 
 ## About me
-- 🌱 Currently i'm learning Node JS.
+- 🌱 I am currently taking the Oracle One Course for FullStack development and Google Data Analytics.
 - 💬 you can ask me about web development with React, Jquery, Javascript, SQl, Python for data analistcs and Node JS.
 - 📫 Send me a message at gvelizzuniga@gmail.com if you would like contact me.
 - 😄 Pronouns: I identify as a man.
